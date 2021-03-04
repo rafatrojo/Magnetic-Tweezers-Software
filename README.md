@@ -1,0 +1,3 @@
+# Magnetic-Tweezers-Software
+
+C++ code for the data acquisition processes of the MT_3 setup. More to come...
