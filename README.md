@@ -1,6 +1,6 @@
 # Magnetic-Tweezers-Software
 
-C++/Qt code for the data acquisition processes of the MT_3 setup. 
+C++/Qt code for the data acquisition processes of the MT_3 (Tape head) and MT_2 (permanent magnets) setups.
 
 It needs the following .dll:
 opencv_world342.dll
